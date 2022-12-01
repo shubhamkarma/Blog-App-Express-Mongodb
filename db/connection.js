@@ -18,4 +18,4 @@ async function connectToDb() {
 
   return client;
 }
-module.exports = connectToDb;
+module.exports = connectToDb
